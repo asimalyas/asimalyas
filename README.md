@@ -58,9 +58,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asimalyas&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimalyas&theme=radical" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=asimalyas&theme=radical" alt="GitHub Streak" />
+  </a>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimalyas&layout=compact&theme=radical" alt="Top Languages" />
 </p>
