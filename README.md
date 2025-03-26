@@ -49,8 +49,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimalyas&theme=tokyonight" height="180em"/>
 </p>
 
+
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=asimalyas&theme=react-dark" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asimalyas&theme=dracula&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimalyas&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asimalyas&theme=tokyonight" width="80%"/>
 </p>
 
 ---
