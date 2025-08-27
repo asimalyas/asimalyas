@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Muhammad Asim Ilyas 👋</h1>
-<h3 align="center">Software Engineer | Java Developer | Web & Game Enthusiast</h3>
+<h3 align="center">Software Engineer | Java Developer | Web, Game & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7A100&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Software+Engineer+%7C+Java+%7C+Web+%7C+Game+Developer;Passionate+about+Problem+Solving+%26+Tech+Innovation!;Let's+Build+Something+Great+Together!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7A100&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Software+Engineer+%7C+Java+%7C+Web+%7C+Game+%7C+ML;Passionate+about+Problem+Solving+%26+Tech+Innovation!;Let's+Build+Something+Great+Together!">
 </p>
 
 ---
@@ -11,7 +11,7 @@
 🔹 **Software Engineer** (6th semester at COMSATS University, Abbottabad) 🎓.  
 🔹 Founder of **ASIM Vision** & Developer of **Jump and Hit Game**.  
 🔹 Experienced in **Backend Development (Java, SQL, Microservices)** & **Frontend Technologies (React, HTML, CSS, JavaScript)**.  
-🔹 Passionate about **Problem Solving, Game Development, and Scalable Software Solutions**.  
+🔹 Passionate about **Problem Solving, Game Development, Machine Learning, and Scalable Software Solutions**.  
 🔹 **Cricket All-Rounder** 🎯 *(Right-arm Fast Bowler | Classical Batsman)*.  
 
 ---
@@ -22,13 +22,16 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
 
-### **Web & Backend Development:**
+### **Web, Backend & ML Development:**
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)  
 
 ### **Databases & Cloud:**
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)  
@@ -45,10 +48,9 @@
 
 ## 🔥 **GitHub Stats & Activity**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asimalyas&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asimalyas&show_icons=true&theme=tokyonight&count_private=true" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimalyas&theme=tokyonight" height="180em"/>
 </p>
-
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=asimalyas&theme=react-dark" width="100%"/>
@@ -71,7 +73,8 @@
 🚀 **E-Learning Course Platform (Java & MS SQL Server)**   
 🚀 **QR Image Generator (Node.js & React)**   
 🚀 **Huffman Coding Algorithm (Java)**   
-🚀 **Attendance Management System (HTML, CSS, JavaScript)**   
+🚀 **Attendance Management System (HTML, CSS, JavaScript)**  
+🚀 **Machine Learning Projects** *(Python, TensorFlow, PyTorch)*  
 
 ---
 
@@ -84,4 +87,4 @@
 
 ---
 
-⭐ **"Code, Create, Innovate!"** ⭐
+⭐ **"Code, Create, Innovate & Learn!"** ⭐
