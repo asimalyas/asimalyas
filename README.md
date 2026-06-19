@@ -1,18 +1,14 @@
-<!-- ========================================================= -->
-
-<!--                 MUHAMMAD ASIM ILYAS PROFILE README        -->
-
-<!-- ========================================================= -->
+<!-- ===================== PROFESSIONAL ANIMATED HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f766e,40:2563eb,100:9333ea&height=260&section=header&text=Muhammad%20Asim%20Ilyas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Developer&descAlignY=62&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:2563eb,100:9333ea&height=200&section=header&text=Muhammad%20Asim%20Ilyas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Developer&descAlignY=58&descSize=16" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2600&pause=700&color=0F766E&center=true&vCenter=true&width=950&height=70&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;3.90%2F4.00+CGPA+%7C+COMSATS+University+%F0%9F%8F%86;Full-Stack+Developer+%7C+React+%7C+Node.js+%E2%9A%A1;AI%2FML+%7C+Computer+Vision+%7C+Healthcare+AI+%F0%9F%A7%A0;Building+Explainable+ECG-Based+CVD+Detection+System+%F0%9F%AB%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=700&color=0F766E&center=true&vCenter=true&width=900&height=70&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;3.90%2F4.00+CGPA+%7C+COMSATS+University+%F0%9F%8F%86;Full-Stack+Developer+%7C+React+%7C+Node.js+%E2%9A%A1;AI%2FML+%7C+Computer+Vision+%7C+Healthcare+AI+%F0%9F%A7%A0;Building+Explainable+ECG-Based+CVD+Detection+System+%F0%9F%AB%80" />
 
 </div>
 
@@ -31,12 +27,15 @@
 <a href="mailto:asimalyas4440@gmail.com">
   <img src="https://img.shields.io/badge/Email-asimalyas4440%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://github.com/asimalyas">
   <img src="https://img.shields.io/badge/GitHub-asimalyas-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/muhammad-asim-ilyas-a38b263a2">
   <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Asim%20Ilyas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://asimmportfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Live%20Website-0F766E?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
@@ -47,13 +46,22 @@
 
 <div align="center">
 
-<img width="420" src="https://user-images.githubusercontent.com/74038190/212284103-3b66f6db-ebe4-46f1-a9c3-c5fb4e9e1a9e.gif" />
+<img width="380" src="https://user-images.githubusercontent.com/74038190/212284103-3b66f6db-ebe4-46f1-a9c3-c5fb4e9e1a9e.gif" />
 
 </div>
 
 ---
 
 <div align="center">
+
+# 👋 Welcome to My GitHub Universe
+
+### I build software that combines **engineering, intelligence, design, and real-world impact**.
+
+</div>
+
+---
+
 
 # 👋 Welcome to My GitHub Universe
 
