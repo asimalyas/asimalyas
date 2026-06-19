@@ -1,15 +1,14 @@
-````md
-<!-- ===================== HERO HEADER ===================== -->
+<!-- ===================== PROFILE HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:2563eb&height=220&section=header&text=Muhammad%20Asim%20Ilyas&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Developer&descAlignY=58&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:2563eb&height=220&section=header&text=Muhammad%20Asim%20Ilyas&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Developer&descAlignY=58&descSize=17" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=700&color=0F766E&center=true&vCenter=true&width=900&lines=High-performing+Software+Engineering+Student;3.90%2F4.00+CGPA+%7C+COMSATS+University;MERN+Stack+Developer+%7C+React+%7C+Node.js;AI%2FML+%7C+Computer+Vision+%7C+Healthcare+AI;Building+Explainable+ECG-based+CVD+Detection+System)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&size=24\&duration=2500\&pause=700\&color=0F766E\&center=true\&vCenter=true\&width=900\&lines=Software+Engineering+Undergraduate;3.90%2F4.00+CGPA+%7C+COMSATS+University;Full-Stack+Developer+%7C+React+%7C+Node.js;AI%2FML+%7C+Computer+Vision+%7C+Healthcare+AI;Building+Explainable+ECG-based+CVD+Detection+System)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,16 +31,15 @@
 
 <br/>
 
-<!-- ===================== INTRO ===================== -->
+---
 
 ## 👋 About Me
 
 I am **Muhammad Asim Ilyas**, a **Software Engineering undergraduate at COMSATS University Islamabad, Abbottabad Campus**, currently maintaining a **3.90/4.00 CGPA**.
 
-I build practical software solutions using **Full-Stack Web Development, AI/ML, Computer Vision, and Healthcare AI**.  
-My strongest work is an **explainable ECG-based cardiovascular disease detection system**, where I combine **software engineering, machine learning, signal processing, clinical workflow design, and report generation**.
+I build practical software solutions using **Full-Stack Web Development, AI/ML, Computer Vision, and Healthcare AI**. My strongest work is an **explainable ECG-based cardiovascular disease detection system**, where I combine **software engineering, machine learning, ECG signal processing, clinical workflow design, and report generation**.
 
-I am currently focused on becoming a strong **Software Engineer / Full-Stack Developer** with applied AI/ML skills.
+I am currently focused on becoming a strong **Software Engineer / Full-Stack Developer** with applied **AI/ML** skills.
 
 ---
 
@@ -54,7 +52,7 @@ AI/ML Developer
 Healthcare AI Project Builder
 Problem Solver
 Fast Learner
-````
+```
 
 ---
 
@@ -63,12 +61,10 @@ Fast Learner
 * Building production-ready **React + Node.js + MongoDB** applications
 * Developing **Flask/FastAPI ML services**
 * Improving **AI/ML model deployment and explainability**
-* Strengthening **DSA, JavaScript, React, REST APIs, SQL, and system design basics**
+* Strengthening **JavaScript, React, REST APIs, SQL, DSA, and system design basics**
 * Preparing for **Associate Software Engineer / Junior Full-Stack / AI-ML Trainee roles**
 
 ---
-
-<!-- ===================== HIGHLIGHTS ===================== -->
 
 ## 🏆 Profile Highlights
 
@@ -83,8 +79,6 @@ Fast Learner
 </div>
 
 ---
-
-<!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Tech Stack
 
@@ -106,10 +100,15 @@ Fast Learner
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
 </p>
 
-### 🧠 AI / ML / Data
+### 🧠 AI / ML / Computer Vision
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow%2FKeras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ```txt
@@ -136,8 +135,6 @@ MS SQL Server | MongoDB | MySQL | PostgreSQL
 </p>
 
 ---
-
-<!-- ===================== FLAGSHIP PROJECT ===================== -->
 
 ## 🫀 Flagship Project
 
@@ -178,8 +175,6 @@ React | ECG Signal Processing | Explainability | Report Generation
 
 ---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
-
 ## 🌟 Featured Projects
 
 <table>
@@ -197,7 +192,7 @@ AI-powered healthcare system for cardiovascular disease detection using ECG sign
 
 ### 🧪 Quiz Test App
 
-Entry-test practice platform with MCQ parsing, timers, result tracking, skipped question handling, retry flow, local storage recovery, and AI-assisted question generation.
+Entry-test practice platform with MCQ parsing, timers, result tracking, skipped-question handling, retry flow, local-storage recovery, and AI-assisted question generation.
 
 **Tech:** React, TypeScript, Vite, Local Storage, Vercel
 
@@ -230,7 +225,7 @@ Regression-based ML system for predicting house prices using preprocessing, feat
 
 ### 👤 Celebrity Recognition System
 
-Computer vision classification system using OpenCV, wavelet transform, SVM classifier, and Flask interface for image-based celebrity recognition.
+Computer-vision classification system using OpenCV, wavelet transform, SVM classifier, and Flask interface for image-based celebrity recognition.
 
 **Tech:** Python, OpenCV, scikit-learn, Flask
 
@@ -249,8 +244,6 @@ Two-level archery-themed Unity game with enemy targeting, bow-and-arrow mechanic
 
 ---
 
-<!-- ===================== EXPERIENCE ===================== -->
-
 ## 💼 Professional Experience
 
 ### MERN Stack Developer Intern
@@ -264,8 +257,6 @@ Two-level archery-themed Unity game with enemy targeting, bow-and-arrow mechanic
 * Gained practical experience in teamwork, code organization, and real-world development workflows
 
 ---
-
-<!-- ===================== EDUCATION ===================== -->
 
 ## 🎓 Education
 
@@ -293,8 +284,6 @@ Linear Algebra
 
 ---
 
-<!-- ===================== ACHIEVEMENTS ===================== -->
-
 ## 🏅 Certifications & Achievements
 
 * **Academic Excellence:** Maintained **3.90/4.00 CGPA** in BS Software Engineering
@@ -308,8 +297,6 @@ Linear Algebra
 * **Society Appreciation Activities**
 
 ---
-
-<!-- ===================== WHAT I AM GOOD AT ===================== -->
 
 ## 💡 What I Bring
 
@@ -328,15 +315,13 @@ Linear Algebra
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asimalyas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=asimalyas&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=asimalyas&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -348,8 +333,6 @@ Linear Algebra
 
 ---
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -359,8 +342,6 @@ Linear Algebra
 </div>
 
 ---
-
-<!-- ===================== LEARNING ROADMAP ===================== -->
 
 ## 🧭 My Current Learning Roadmap
 
@@ -377,8 +358,6 @@ flowchart LR
 
 ---
 
-<!-- ===================== CODING PHILOSOPHY ===================== -->
-
 ## 🧩 My Development Philosophy
 
 > Build projects that solve real problems.
@@ -388,8 +367,6 @@ flowchart LR
 > Turn academic knowledge into practical systems.
 
 ---
-
-<!-- ===================== CONTACT ===================== -->
 
 ## 🤝 Connect With Me
 
@@ -419,4 +396,3 @@ flowchart LR
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f766e&height=130&section=footer" />
 
 </div>
-```
