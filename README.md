@@ -1,16 +1,30 @@
-<!-- ===================== PROFILE HEADER ===================== -->
+<!-- ========================================================= -->
+
+<!--                 MUHAMMAD ASIM ILYAS PROFILE README        -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:2563eb&height=220&section=header&text=Muhammad%20Asim%20Ilyas&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Developer&descAlignY=58&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f766e,40:2563eb,100:9333ea&height=260&section=header&text=Muhammad%20Asim%20Ilyas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Developer&descAlignY=62&descSize=18" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&size=24\&duration=2500\&pause=700\&color=0F766E\&center=true\&vCenter=true\&width=900\&lines=Software+Engineering+Undergraduate;3.90%2F4.00+CGPA+%7C+COMSATS+University;Full-Stack+Developer+%7C+React+%7C+Node.js;AI%2FML+%7C+Computer+Vision+%7C+Healthcare+AI;Building+Explainable+ECG-based+CVD+Detection+System)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2600&pause=700&color=0F766E&center=true&vCenter=true&width=950&height=70&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;3.90%2F4.00+CGPA+%7C+COMSATS+University+%F0%9F%8F%86;Full-Stack+Developer+%7C+React+%7C+Node.js+%E2%9A%A1;AI%2FML+%7C+Computer+Vision+%7C+Healthcare+AI+%F0%9F%A7%A0;Building+Explainable+ECG-Based+CVD+Detection+System+%F0%9F%AB%80" />
 
 </div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=asimalyas&label=Profile%20Views&color=0f766e&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/asimalyas?label=Followers&style=for-the-badge&color=2563eb&logo=github" />
+<img src="https://img.shields.io/github/stars/asimalyas?label=Stars&style=for-the-badge&color=9333ea&logo=github" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -31,38 +45,98 @@
 
 <br/>
 
----
+<div align="center">
 
-## 👋 About Me
+<img width="420" src="https://user-images.githubusercontent.com/74038190/212284103-3b66f6db-ebe4-46f1-a9c3-c5fb4e9e1a9e.gif" />
 
-I am **Muhammad Asim Ilyas**, a **Software Engineering undergraduate at COMSATS University Islamabad, Abbottabad Campus**, currently maintaining a **3.90/4.00 CGPA**.
-
-I build practical software solutions using **Full-Stack Web Development, AI/ML, Computer Vision, and Healthcare AI**. My strongest work is an **explainable ECG-based cardiovascular disease detection system**, where I combine **software engineering, machine learning, ECG signal processing, clinical workflow design, and report generation**.
-
-I am currently focused on becoming a strong **Software Engineer / Full-Stack Developer** with applied **AI/ML** skills.
+</div>
 
 ---
 
-## 🚀 Professional Identity
+<div align="center">
 
-```txt
-Software Engineering Undergraduate
-Full-Stack Developer
-AI/ML Developer
-Healthcare AI Project Builder
-Problem Solver
-Fast Learner
-```
+# 👋 Welcome to My GitHub Universe
+
+### I build software that combines **engineering, intelligence, design, and real-world impact**.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am **Muhammad Asim Ilyas**, a **Software Engineering undergraduate at COMSATS University Islamabad, Abbottabad Campus**, currently maintaining a strong **3.90/4.00 CGPA**.
+
+I am passionate about building practical and useful technology using **Full-Stack Web Development, AI/ML, Computer Vision, Healthcare AI, and modern software engineering practices**.
+
+My strongest technical direction is an **Explainable ECG-Based Cardiovascular Disease Detection System**, where I combine:
+
+* Software Engineering
+* Machine Learning
+* ECG Signal Processing
+* Explainable AI
+* Clinical Workflow Design
+* Report Generation
+* Role-Based Dashboards
+
+I am currently preparing for **Associate Software Engineer, Junior Full-Stack Developer, MERN Developer, and AI/ML Trainee roles**.
+
+---
+
+<div align="center">
+
+## 🚀 My Professional Identity
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="70"/>
+<br/>
+<b>Software Engineer</b>
+<br/>
+Building reliable and scalable applications
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="70"/>
+<br/>
+<b>AI/ML Developer</b>
+<br/>
+Working with ML, CV, and healthcare AI
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/web-design.png" width="70"/>
+<br/>
+<b>Full-Stack Developer</b>
+<br/>
+React, Node, APIs, and databases
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/heart-with-pulse.png" width="70"/>
+<br/>
+<b>Healthcare AI Builder</b>
+<br/>
+ECG, explainability, and medical reports
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" />
+
 * Building production-ready **React + Node.js + MongoDB** applications
-* Developing **Flask/FastAPI ML services**
+* Creating **Flask/FastAPI ML services**
 * Improving **AI/ML model deployment and explainability**
-* Strengthening **JavaScript, React, REST APIs, SQL, DSA, and system design basics**
-* Preparing for **Associate Software Engineer / Junior Full-Stack / AI-ML Trainee roles**
+* Practicing **JavaScript, React, REST APIs, SQL, DSA, and system design basics**
+* Writing better documentation for my GitHub projects
+* Preparing for professional software engineering jobs
+* Converting academic knowledge into real-world applications
+
+<br clear="right"/>
 
 ---
 
@@ -70,108 +144,126 @@ Fast Learner
 
 <div align="center">
 
-| 🎓 Academic Strength | 💻 Development        | 🤖 AI/ML             | 🫀 Flagship Project         |
-| -------------------- | --------------------- | -------------------- | --------------------------- |
-| **3.90/4.00 CGPA**   | **MERN Stack Intern** | **ML + CV Projects** | **ECG-based CVD Detection** |
-| COMSATS University   | React, Node, Express  | scikit-learn, OpenCV | Explainable Healthcare AI   |
-| Multiple 4.00 GPAs   | Flask/FastAPI APIs    | TensorFlow/Keras     | Clinical Report Workflow    |
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/CGPA-3.90%2F4.00-0f766e?style=for-the-badge&logo=academia&logoColor=white"/>
+<br/>
+<b>Strong Academic Record</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/MERN-Internship-2563eb?style=for-the-badge&logo=react&logoColor=white"/>
+<br/>
+<b>Industry Exposure</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Healthcare_AI-FYP-9333ea?style=for-the-badge&logo=python&logoColor=white"/>
+<br/>
+<b>ECG + Explainability</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Projects-20%2B-f97316?style=for-the-badge&logo=github&logoColor=white"/>
+<br/>
+<b>Web, ML, Java, Unity</b>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Arsenal
+
+<div align="center">
 
 ### 💻 Programming Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,cs,c" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,cs,c" />
 
 ### 🌐 Frontend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,bootstrap" />
 
-### ⚙️ Backend Development & APIs
+### ⚙️ Backend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
 
-### 🧠 AI / ML / Computer Vision
+### 🧠 AI / ML / Data / Computer Vision
 
-<p align="left">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow%2FKeras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-```txt
-Machine Learning: Regression, Classification, Model Evaluation
-Computer Vision: OpenCV, Face Detection, Image Classification
-Healthcare AI: ECG Preprocessing, Feature Extraction, Explainability
-Data Tools: NumPy, Pandas, Matplotlib, scikit-learn
-```
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow%2FKeras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 
 ### 🗄️ Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-```txt
-MS SQL Server | MongoDB | MySQL | PostgreSQL
-```
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 ### 🧰 Tools & Platforms
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,postman,unity" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,postman,unity" />
+
+</div>
 
 ---
 
 ## 🫀 Flagship Project
 
-### Hybrid Multimodal Fusion Framework for Cardiovascular Disease Detection
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f766e,100:2563eb&height=90&section=header&text=Hybrid%20Multimodal%20Fusion%20Framework%20for%20CVD%20Detection&fontSize=24&fontColor=ffffff" />
+
+</div>
+
+### 🧠 Explainable ECG-Based Cardiovascular Disease Detection System
 
 An AI-based clinical decision-support system for detecting cardiovascular disease using **12-lead ECG data**.
 
-#### 🔍 What it does
+### 🔍 What It Does
 
-* Uploads and processes ECG data
-* Performs ECG preprocessing and feature extraction
-* Applies ML/DL-based classification
-* Generates explainable AI outputs
-* Supports doctor review and approval
-* Produces clinical-style reports
-* Provides role-based workflows for Admin, Doctor, Technician, and Patient
+<table>
+<tr>
+<td>✅ ECG Uploading and Processing</td>
+<td>✅ ECG Preprocessing</td>
+</tr>
+<tr>
+<td>✅ Feature Extraction</td>
+<td>✅ ML/DL Classification</td>
+</tr>
+<tr>
+<td>✅ Multimodal Fusion</td>
+<td>✅ Explainable AI Outputs</td>
+</tr>
+<tr>
+<td>✅ Doctor Review and Approval</td>
+<td>✅ Clinical Report Generation</td>
+</tr>
+<tr>
+<td>✅ Admin, Doctor, Technician, Patient Workflows</td>
+<td>✅ Secure Report Access</td>
+</tr>
+</table>
 
-#### 🧠 Core Areas
+### 🛠️ Technologies Used
 
-```txt
-ECG Signal Processing
-Machine Learning Classification
-Multimodal Fusion
-Explainable AI
-Clinical Report Generation
-Role-Based Dashboards
-Healthcare Software Workflow
-```
+<div align="center">
 
-#### 🛠️ Technologies
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow%2FKeras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-```txt
-Python | Flask | FastAPI | scikit-learn | TensorFlow/Keras | OpenCV
-React | ECG Signal Processing | Explainability | Report Generation
-```
+</div>
 
-> This project represents my strongest technical direction: **AI-powered healthcare software with real-world clinical workflow thinking**.
+> This project represents my strongest technical direction: **AI-powered healthcare software with explainability and real-world clinical workflow thinking**.
 
 ---
 
@@ -181,20 +273,20 @@ React | ECG Signal Processing | Explainability | Report Generation
 <tr>
 <td width="50%">
 
-### 🧠 ECG-Based CVD Detection System
+<h3>🫀 ECG-Based CVD Detection System</h3>
 
 AI-powered healthcare system for cardiovascular disease detection using ECG signal processing, ML classification, explainability, and clinical reporting.
 
-**Tech:** Python, Flask/FastAPI, ML, OpenCV, React
+<b>Tech:</b> Python, Flask/FastAPI, ML, OpenCV, React
 
 </td>
 <td width="50%">
 
-### 🧪 Quiz Test App
+<h3>🧪 Quiz Test App</h3>
 
-Entry-test practice platform with MCQ parsing, timers, result tracking, skipped-question handling, retry flow, local-storage recovery, and AI-assisted question generation.
+Entry-test practice platform with MCQ parsing, timers, skipped-question handling, retry flow, result tracking, local-storage recovery, and AI-assisted question generation.
 
-**Tech:** React, TypeScript, Vite, Local Storage, Vercel
+<b>Tech:</b> React, TypeScript, Vite, Local Storage, Vercel
 
 </td>
 </tr>
@@ -202,20 +294,20 @@ Entry-test practice platform with MCQ parsing, timers, result tracking, skipped-
 <tr>
 <td width="50%">
 
-### 🌐 AI-Integrated Portfolio
+<h3>🌐 AI-Integrated Portfolio</h3>
 
-Modern developer portfolio with responsive UI, animations, dark/light mode, reusable components, project sections, and AI assistant integration.
+Modern developer portfolio with responsive UI, animation, dark/light theme, reusable components, project sections, and AI assistant integration.
 
-**Tech:** React, TypeScript, Tailwind CSS, Framer Motion
+<b>Tech:</b> React, TypeScript, Tailwind CSS, Framer Motion
 
 </td>
 <td width="50%">
 
-### 🏠 Bangalore House Price Prediction
+<h3>🏠 Bangalore House Price Prediction</h3>
 
 Regression-based ML system for predicting house prices using preprocessing, feature engineering, model training, and Flask-based web interface.
 
-**Tech:** Python, Pandas, scikit-learn, Flask
+<b>Tech:</b> Python, Pandas, scikit-learn, Flask
 
 </td>
 </tr>
@@ -223,20 +315,20 @@ Regression-based ML system for predicting house prices using preprocessing, feat
 <tr>
 <td width="50%">
 
-### 👤 Celebrity Recognition System
+<h3>👤 Celebrity Recognition System</h3>
 
 Computer-vision classification system using OpenCV, wavelet transform, SVM classifier, and Flask interface for image-based celebrity recognition.
 
-**Tech:** Python, OpenCV, scikit-learn, Flask
+<b>Tech:</b> Python, OpenCV, scikit-learn, Flask
 
 </td>
 <td width="50%">
 
-### 🎯 Archery Quest Game
+<h3>🎯 Archery Quest Game</h3>
 
 Two-level archery-themed Unity game with enemy targeting, bow-and-arrow mechanics, interactive environments, and gameplay UI.
 
-**Tech:** Unity, C#
+<b>Tech:</b> Unity, C#
 
 </td>
 </tr>
@@ -245,6 +337,8 @@ Two-level archery-themed Unity game with enemy targeting, bow-and-arrow mechanic
 ---
 
 ## 💼 Professional Experience
+
+<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/212744287-810e9b4a-4952-4e16-9c92-4d72c2c8b2a8.gif" />
 
 ### MERN Stack Developer Intern
 
@@ -256,6 +350,8 @@ Two-level archery-themed Unity game with enemy targeting, bow-and-arrow mechanic
 * Worked on routing, forms, database operations, debugging, and feature improvements
 * Gained practical experience in teamwork, code organization, and real-world development workflows
 
+<br clear="right"/>
+
 ---
 
 ## 🎓 Education
@@ -266,52 +362,108 @@ Two-level archery-themed Unity game with enemy targeting, bow-and-arrow mechanic
 **2022 – Present**
 **CGPA: 3.90/4.00**
 
-Key academic strengths:
+### Academic Strengths
 
-```txt
-Artificial Intelligence
-Data Structures and Algorithms
-Object-Oriented Programming
-Database Systems
-Software Engineering
-Operating Systems
-Formal Methods
-Human-Computer Interaction
-Software Project Management
-Statistics and Probability
-Linear Algebra
-```
+<div align="center">
+
+<table>
+<tr>
+<td>Artificial Intelligence</td>
+<td>Data Structures & Algorithms</td>
+<td>Object-Oriented Programming</td>
+</tr>
+<tr>
+<td>Database Systems</td>
+<td>Operating Systems</td>
+<td>Software Engineering</td>
+</tr>
+<tr>
+<td>Formal Methods</td>
+<td>Human-Computer Interaction</td>
+<td>Software Project Management</td>
+</tr>
+<tr>
+<td>Statistics & Probability</td>
+<td>Linear Algebra</td>
+<td>Game Development</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 🏅 Certifications & Achievements
 
-* **Academic Excellence:** Maintained **3.90/4.00 CGPA** in BS Software Engineering
-* **Multiple 4.00 Semester GPAs**
-* **Certificate of Excellence in Database** — COMSATS University Islamabad, Abbottabad Campus
-* **Certificate of Excellence in Game Development** — Runner-up for Archery Quest Game
-* **Certificate of Appreciation — Convocation 2023**
-* **Certificate of Appreciation — Communication Event**
-* **GDGOC Bootcamp Participation**
-* **Students Week FA-24 Coordination**
-* **Society Appreciation Activities**
+<div align="center">
+
+<table>
+<tr>
+<td align="center">🏆</td>
+<td><b>Academic Excellence</b> — Maintained 3.90/4.00 CGPA in BS Software Engineering</td>
+</tr>
+<tr>
+<td align="center">⭐</td>
+<td><b>Multiple 4.00 Semester GPAs</b></td>
+</tr>
+<tr>
+<td align="center">🗄️</td>
+<td><b>Certificate of Excellence in Database</b> — COMSATS University Islamabad, Abbottabad Campus</td>
+</tr>
+<tr>
+<td align="center">🎮</td>
+<td><b>Certificate of Excellence in Game Development</b> — Runner-up for Archery Quest Game</td>
+</tr>
+<tr>
+<td align="center">🎓</td>
+<td><b>Certificate of Appreciation</b> — Convocation 2023</td>
+</tr>
+<tr>
+<td align="center">🤝</td>
+<td><b>Certificate of Appreciation</b> — Communication Event</td>
+</tr>
+<tr>
+<td align="center">🚀</td>
+<td><b>GDGOC Bootcamp Participation</b></td>
+</tr>
+<tr>
+<td align="center">🌟</td>
+<td><b>Students Week FA-24 Coordination and Society Activities</b></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 💡 What I Bring
 
-```txt
-✔ Strong academic discipline
-✔ Fast learning ability
-✔ Practical project-building mindset
-✔ Full-stack development foundation
-✔ AI/ML and computer vision exposure
-✔ Healthcare AI project experience
-✔ Clean UI thinking
-✔ Debugging and problem-solving
-✔ Teamwork and documentation
-✔ Ability to convert ideas into working applications
-```
+<div align="center">
+
+<table>
+<tr>
+<td>✔ Strong academic discipline</td>
+<td>✔ Fast learning ability</td>
+</tr>
+<tr>
+<td>✔ Practical project-building mindset</td>
+<td>✔ Full-stack development foundation</td>
+</tr>
+<tr>
+<td>✔ AI/ML and computer vision exposure</td>
+<td>✔ Healthcare AI project experience</td>
+</tr>
+<tr>
+<td>✔ Clean UI thinking</td>
+<td>✔ Debugging and problem-solving</td>
+</tr>
+<tr>
+<td>✔ Teamwork and documentation</td>
+<td>✔ Project ownership mindset</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -327,7 +479,17 @@ Linear Algebra
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimalyas&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimalyas&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=asimalyas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
 
 </div>
 
@@ -343,28 +505,62 @@ Linear Algebra
 
 ---
 
-## 🧭 My Current Learning Roadmap
+## 🧭 My Growth Roadmap
 
-```mermaid
-flowchart LR
-    A[Strong CS Fundamentals] --> B[JavaScript + React]
-    B --> C[Node.js + Express APIs]
-    C --> D[Databases + Authentication]
-    D --> E[Deployment + GitHub Projects]
-    E --> F[AI/ML Services with Flask/FastAPI]
-    F --> G[Healthcare AI + Explainability]
-    G --> H[Professional Software Engineer]
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2400&pause=500&color=2563EB&center=true&vCenter=true&width=900&lines=CS+Fundamentals+%E2%9E%9C+JavaScript+%2B+React;Node.js+%2B+Express+%E2%9E%9C+Databases+%2B+Authentication;Deployment+%2B+GitHub+Projects+%E2%9E%9C+Flask%2FFastAPI+ML+Services;Healthcare+AI+%2B+Explainability+%E2%9E%9C+Professional+Software+Engineer" />
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">1️⃣<br/><b>CS Fundamentals</b></td>
+<td align="center">2️⃣<br/><b>React + JavaScript</b></td>
+<td align="center">3️⃣<br/><b>Node + APIs</b></td>
+<td align="center">4️⃣<br/><b>Databases</b></td>
+</tr>
+<tr>
+<td align="center">5️⃣<br/><b>Deployment</b></td>
+<td align="center">6️⃣<br/><b>ML Services</b></td>
+<td align="center">7️⃣<br/><b>Healthcare AI</b></td>
+<td align="center">8️⃣<br/><b>Software Engineer</b></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 🧩 My Development Philosophy
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
 
 > Build projects that solve real problems.
 > Keep learning.
 > Keep improving.
 > Write cleaner code every day.
 > Turn academic knowledge into practical systems.
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<p>
+This section can show a contribution snake after you enable the GitHub Action for snake animation.
+</p>
+
+<img src="https://raw.githubusercontent.com/asimalyas/asimalyas/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
@@ -391,8 +587,14 @@ flowchart LR
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub profile!
+### ⭐ Thanks for visiting my GitHub profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f766e&height=130&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=800&color=0F766E&center=true&vCenter=true&width=850&lines=Let's+build+something+meaningful.;Open+to+learning%2C+collaboration%2C+and+opportunities.;Software+Engineering+%2B+AI%2FML+%2B+Healthcare+Impact." />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,50:2563eb,100:0f766e&height=150&section=footer" />
 
 </div>
